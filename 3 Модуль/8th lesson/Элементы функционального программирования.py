@@ -26,9 +26,10 @@ goods = [
 # apple_list = filter(lambda item: item['brand'] == 'Apple', goods)
 # print(list(apple_list))
 
-numbers = ['1', '2', '3']
-number_map = map(lambda item: item+'s', numbers)
+numbers = ['алексей']
+number_map = map(lambda item: item.capitalize() , numbers)
 
+print(list(number_map))
 for index, item in enumerate (goods):
     print(index, item)
 

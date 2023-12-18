@@ -20,12 +20,6 @@ get_all_files(parent_parent_path)
 
 
 
-
-
-
-
-
-
 # def recurs(count):
 #     print(count)
 #     if count == 5:

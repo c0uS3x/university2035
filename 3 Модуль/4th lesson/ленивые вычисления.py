@@ -42,7 +42,7 @@
 # lst = []
 # for i in range(10000):
 #     lst.append(open('file.txt', 'w'))
-
+#
 # lst = []
 # for i in range(10000):
 #     f = open('file.txt', 'w')

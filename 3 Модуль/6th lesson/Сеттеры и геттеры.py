@@ -33,3 +33,4 @@ class Person:
             self.__age = age
         else:
             raise Exception('Вы еще не родились')
+
