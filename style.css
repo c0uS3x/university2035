@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+
+h4{
+    background-color: blue;
+    color: yellow;
+}
+
+.item_name{
+    color:green;
+    margin-bottom: 50px
+}
+
+.description{
+    font-size: 50px
+
+}
