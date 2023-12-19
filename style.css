@@ -14,5 +14,11 @@ h4{
 
 .description{
     font-size: 50px
+}
 
+.teg{
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+    box-shadow: 2px 2px;
 }
