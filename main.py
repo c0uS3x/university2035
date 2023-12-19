@@ -4,5 +4,5 @@ def palindrom(d):
     else:
         print("False")
 
-s= "лепсспел"
+s= "лепgit clean -f -dсспел"
 palindrom(s)
